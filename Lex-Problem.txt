@@ -1,0 +1,10 @@
+Write a flex program to detect the following:
+
+· identifiers/words
+· keywords
+· comma
+· count the number of semicolon and full-stop
+· count the identifiers/words and line numbers
+
+
+// Start the solution from here:
